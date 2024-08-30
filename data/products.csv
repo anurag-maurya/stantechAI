@@ -1,0 +1,11 @@
+product_name,category,price,quantity_sold,rating,review_count
+Laptop,Electronics,799.99,150,4.5,120
+Headphones,Electronics,199.99,350,4.2,85
+Smartphone,Electronics,999.99,200,4.7,150
+Book,Books,19.99,1200,4.8,200
+Desk Chair,Furniture,129.99,75,4.3,65
+Running Shoes,Sports,59.99,500,4.6,90
+Coffee Maker,Appliances,89.99,250,4.1,75
+Gaming Console,Electronics,399.99,100,4.9,180
+Smartwatch,Electronics,199.99,175,4.4,95
+Blender,Appliances,49.99,300,4.0,60
